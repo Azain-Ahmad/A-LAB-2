@@ -1,2 +1,2 @@
-# A-LAB-2
+# AI-LAB-2
 AI LAB TASK
